@@ -1,9 +1,13 @@
 {
-  "name": "full-stack-web",
+  "name": "full-stack-web-weihao0521",
   "version": "1.0.0",
   "dependencies": {
     "grunt-cli": "0.1.13"
   },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/weihao0521/full-stack-web-project-weihao0521.git"
+},
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-concat": "^0.5.1",
